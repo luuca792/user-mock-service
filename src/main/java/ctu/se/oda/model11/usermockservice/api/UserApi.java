@@ -58,5 +58,4 @@ public class UserApi {
             throw new RuntimeException("Error reading user file", e);
         }
     }
-
 }
